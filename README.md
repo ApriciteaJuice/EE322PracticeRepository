@@ -12,6 +12,8 @@
 - Is a
 - Unordered List
 
+`code example`
+
 ### Link to a website I made
 [BabyTaalk](https://www.babytaalk.com/listen)
 ![BabyTaalk Preview](BBTPreview.jpg)
